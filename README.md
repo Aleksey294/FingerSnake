@@ -26,9 +26,9 @@ pip install opencv-python cvzone numpy pyautogui
 
 ## **Как играть**
 
-1. Запустите игру с помощью файла `main.py`:
+1. Запустите игру с помощью файла `FingerSnake.py`:
 ```bash
-python main.py
+python FingerSnake.py
 ```
 
 2. **Начало игры**:
